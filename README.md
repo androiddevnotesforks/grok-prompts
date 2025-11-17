@@ -13,6 +13,9 @@ The following prompts are made public via this repository:
 * [`grok_4_code_rc1_safety_prompt.txt`](grok_4_code_rc1_safety_prompt.txt) - Injected system prompt prefix for `grok-code-fast-1` model on the xAI API.
 * [`grok_4_mini_system_prompt.txt`](grok_4_mini_system_prompt.txt) - Injected system prompt prefix for `grok-4-fast` model on the xAI API.
 * [`grok_4_safety_prompt.txt`](grok_4_safety_prompt.txt) - Injected system prompt prefix for `grok-4-0709` model on the xAI API.
+* [`grok4p1_non_thinking_no_tool_system_turn_prompt.j2`](grok4p1_non_thinking_no_tool_system_turn_prompt.j2) - The system prompt for grok 4.1 non thinking no tool
+* [`grok4p1_non_thinking_system_turn_prompt.j2`](grok4p1_non_thinking_system_turn_prompt.j2) - The system prompt for grok 4.1 non thinking with tool
+* [`grok4p1_thinking_system_turn_prompt_v2`](grok4p1_thinking_system_turn_prompt_v2.j2) - The system prompt for grok 4.1 thinking no tool
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
